@@ -1,13 +1,14 @@
 body{
-    background-color: dimgray;
-    text-align: center;
+    background-color: #B58787;
+    font: 15px normal Arial;
 }
 header{
     text-align: center;
-    font-size: 0%;
-    font-style: normal 15px Arial;
+    color: black;
+   
 
 }
 footer{
     text-align: center;
+    font-style: italic;
 }
