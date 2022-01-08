@@ -40,3 +40,26 @@ footer p{
     padding: 0%;
     width: 50px;
 }
+#divBusca{
+    background-color: blanchedalmond;
+    border:solid 1px;
+    border-radius: 10px;
+    width: 300px;
+    position: fixed;
+    margin-left: 550px;
+    margin-top: 0%;
+   
+
+
+}
+
+#txtBusca{
+    float: left;
+    background-color: transparent;
+    font-style: italic;
+    padding-left: 0%;
+    font-size: 18px;
+    border:none;
+    height:32px;
+    width: 260px;
+}
